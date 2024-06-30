@@ -5,6 +5,7 @@
 
 - A module is a file containing code written by somebody else (usually) , which can be imported and used in our programs.
 - Modules are used to organize code, and to reuse code.
+- `pyjoke` is a module here.
 
 ## PIP
 - PIP is a package manager for python packages.

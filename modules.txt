@@ -1,0 +1,2 @@
+pip install pyjokes
+pip install pyttx3   >> text to speech
