@@ -103,3 +103,14 @@ print(type(s))
 #     product *= i
 #     # print(product)
 # print(f"the factorial of number {n} is {product}")
+
+
+# n = int(input("Enter the Number: "))
+
+# for i in range(1 , 11):
+#     print(f"{n} X {11-i} = {n*(11-i)}")
+
+
+# n = int(input("Enter the Number: "))
+# for i in range(9, 0, - 1):
+#     print(f"{n} X {i+1} = {n*(i+1)}")
