@@ -13,3 +13,7 @@
 - PIP is used to install a module on your system.
 
 `Example` : `pip install pjokes`
+
+`__init__` is a dunder method which is automatically called.
+it is noticed by double underscore at the start and at the end `__init__`
+
